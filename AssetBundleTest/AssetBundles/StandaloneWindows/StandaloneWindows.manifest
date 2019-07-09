@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 3308774237
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: character
+      Dependencies: {}
+    Info_1:
+      Name: enemy
+      Dependencies: {}
+    Info_2:
+      Name: datadb
+      Dependencies: {}
